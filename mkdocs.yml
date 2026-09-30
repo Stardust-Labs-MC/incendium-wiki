@@ -6,6 +6,8 @@ site_url: https://stardust-labs-mc.github.io/incendium-wiki/
 repo_url: https://github.com/Stardust-Labs-MC/Incendium
 repo_name: Stardust-Labs-MC/Incendium
 
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
