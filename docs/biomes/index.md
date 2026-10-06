@@ -3,4 +3,4 @@
 Here is a list of all biomes in Incendium.
 
 
-- [Infernal Dunes](biomes/infernal-dunes.md)
+- [Infernal Dunes](infernal-dunes.md)
