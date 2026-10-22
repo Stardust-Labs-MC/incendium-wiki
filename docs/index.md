@@ -1,5 +1,7 @@
 # Incendium: Reignited
 
+![Home](../assets/incendium-banner.png)
+
 !!! warning "Availability"
     Incendium: Reignited is only available for 26.3!
 

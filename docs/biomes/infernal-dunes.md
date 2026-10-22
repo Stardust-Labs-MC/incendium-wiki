@@ -1,7 +1,7 @@
 # Infernal Dunes
 
-Infernal Dunes is a dangerous sandy biome with a lot of blazes.
+The Infernal dunes are blazing hot biomes with red sand and sandstone all around, and red roots hanging from the ceiling. This blazing desert, with gigantic red pillars hides the Infernal altar, a temple with many secrets...
 
-## Image
+## Gallery
 
 ![Infernal Dunes](../assets/infernal-dunes.png)
