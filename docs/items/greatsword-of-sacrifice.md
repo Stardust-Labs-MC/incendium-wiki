@@ -1,3 +1,7 @@
+---
+icon: ../assets/items/sacrifice.png
+---
+
 # Greatsword of Sacrifice
 
 This is a heavy but powerful sword that does a lot of damage in exchange for damaging the user.
