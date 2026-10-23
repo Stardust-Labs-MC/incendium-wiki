@@ -12,9 +12,10 @@ theme:
   name: material
   features:
     - navigation.instant
-    - navigation.expand
     - navigation.top
     - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.tracking
     - search.suggest
     - search.highlight
