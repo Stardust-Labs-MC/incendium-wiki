@@ -4,4 +4,4 @@ The Quartz flats are mirage biomes full of quartz, floating on the lava seas. Th
 
 ## Gallery
 
-![Quartz Flats](../assets/quartz-flats.png)
+![Quartz Flats](../assets/screenshots/quartz-flats.png)

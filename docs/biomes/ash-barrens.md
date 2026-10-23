@@ -4,4 +4,4 @@ The Ash barrens are old lava lakes and coast now covered by ashes after Piglins 
 
 ## Gallery
 
-![Ash Barrens](../assets/ash-barrens.png)
+![Ash Barrens](../assets/screenshots/ash-barrens.png)

@@ -15,6 +15,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - navigation.tracking
     - search.suggest
     - search.highlight
@@ -58,6 +59,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Biomes: 
+      - biomes/index.md
       - Ash Barrens: biomes/ash-barrens.md
       - Quartz Flats: biomes/quartz-flats.md
       - Infernal Dunes: biomes/infernal-dunes.md
@@ -67,6 +69,7 @@ nav:
       - Magma Marsh: biomes/magma-marsh.md
       
   - Structures:
+      - structures/index.md
       - Forbidden Castle: structures/forbidden-castle.md
       - Sanctum: structures/sanctum.md
       - Infernal Altar: structures/infernal-altar.md
@@ -76,6 +79,8 @@ nav:
       - Pipeline: structures/quartz-kitchen.md
       - Piglin Village: structures/piglin-village.md
   - Items:
+      - items/index.md
       - Greatsword of Sacrifice: items/greatsword-of-sacrifice.md
   - Mobs:
+      - mobs/index.md
       - Castle Knight: mobs/castle-knight.md

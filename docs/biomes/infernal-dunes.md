@@ -4,4 +4,4 @@ The Infernal dunes are blazing hot biomes with red sand and sandstone all around
 
 ## Gallery
 
-![Infernal Dunes](../assets/infernal-dunes.png)
+![Infernal Dunes](../assets/screenshots/infernal-dunes.png)
