@@ -1,0 +1,3 @@
+# Nether Reactor
+
+The Nether Reactor is an ruined industrial zone resembling that of a cooling tower, with some control rooms on its side, it is believed that this structure was used by Wither skeletons to create powerful weapons against the Piglins. Although it is now inactive, it is still inhabited by the Radiation workers and the Reactor Sentry, they might be guarding some powerful relics and tools...

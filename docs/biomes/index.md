@@ -1,9 +1,9 @@
 # Biomes
 
-Below is a list of all biomes in Incendium.
+Below is a list of all biomes brought by Incendium.
 
 |Biomes                                 | ID                        |
-|:--------------------------------------|:--------------------------|
+| :------------------------------------ | :------------------------ |
 | [Ash Barrens](ash-barrens.md)         |`incendium:ash_barrens`    |
 | [Quartz Flats](quartz-flats.md)       |`incendium:quartz_flats`   |
 | [Infernal Dunes](infernal-dunes.md)   |`incendium:infernal_dunes` |

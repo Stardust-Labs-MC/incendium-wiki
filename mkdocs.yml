@@ -57,10 +57,24 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Biomes:
+  - Biomes: 
+      - Ash Barrens: biomes/ash-barrens.md
+      - Quartz Flats: biomes/quartz-flats.md
       - Infernal Dunes: biomes/infernal-dunes.md
+      - Toxic Heaps: biomes/toxic-heap.md
+      - Voltaic Heaps: biomes/voltaic-heap.md
+      - Withered Forest: biomes/withered-forest.md
+      - Magma Marsh: biomes/magma-marsh.md
+      
   - Structures:
+      - Forbidden Castle: structures/forbidden-castle.md
       - Sanctum: structures/sanctum.md
+      - Infernal Altar: structures/infernal-altar.md
+      - Ruined Lab: structures/ruined-lab.md
+      - Voltaic Pylon: structures/voltaic-pylon.md
+      - Nether Reactor: structures/nether-reactor.md
+      - Pipeline: structures/quartz-kitchen.md
+      - Piglin Village: structures/piglin-village.md
   - Items:
       - Greatsword of Sacrifice: items/greatsword-of-sacrifice.md
   - Mobs:
