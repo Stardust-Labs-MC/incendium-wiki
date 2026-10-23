@@ -1,5 +1,5 @@
 ---
-title: [Greatsword of Sacrifice](../assets/items/sacrifice.png)
+title: ![Greatsword of Sacrifice](../assets/items/sacrifice.png)
 ---
 
 # Greatsword of Sacrifice
