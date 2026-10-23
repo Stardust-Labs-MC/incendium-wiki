@@ -1,3 +1,7 @@
 # Items
 
-Here is a list of all items in Incendium.
+Here is a list of all custom items added by Incendium.
+
+|Item | Category |
+| :--- | :--- |
+| [Greatsword of Sacrifice](greatsword-of-sacrifice.md "../assests/items/sacrifice.png") | Weapon |

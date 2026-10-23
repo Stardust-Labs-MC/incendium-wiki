@@ -10,6 +10,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/sprites/incendium_symbol.png
   features:
     - navigation.instant
     - navigation.top
@@ -19,6 +20,7 @@ theme:
     - search.highlight
     - content.code.copy
     - content.action.edit
+    - content.tooltips
 
   palette:
     - scheme: default
