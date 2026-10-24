@@ -9,7 +9,7 @@
     __Durability__  2031  
     __Attack Damage__  19 ![Half](../assets/sprites/half.png){width="9"} - 21 ![Half](../assets/sprites/half.png){width="9"}  
     __Attack Speed__  0.7  
-    __Give Command__  ``` python
+    __Give Command__  ``` py
                       function incendium:admin/give/greatsword_of_sacrifice
                       ```
 
