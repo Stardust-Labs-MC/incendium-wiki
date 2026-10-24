@@ -89,5 +89,5 @@ nav:
       - Castle Knight: mobs/castle-knight.md
   - Bosses:
       - bosses/index.md
-      - Hovering Inferno: mobs/hovering-inferno.md
-      - Wither+: mobs/wither-plus.md
+      - Hovering Inferno: bosses/hovering-inferno.md
+      - Wither+: bosses/wither-plus.md
