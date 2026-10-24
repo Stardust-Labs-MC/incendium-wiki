@@ -5,13 +5,13 @@
 
     ![Greatsword of Sacrifice](../assets/items/sacrifice_hand.png)
     
-    __Base Item__  Netherite sword
-    __Durability__  2031
-    __Attack Damage__  19[Half](../assets/sprites/half.png){width="16"} - 21[Half](../assets/sprites/half.png){width="16"}
-    __Attack Speed__  0.7
-    __Give Command__  > ```
-                      > function incendium:admin/give/greatsword_of_sacrifice
-                      > ```
+    __Base Item__     Netherite sword  
+    __Durability__  2031  
+    __Attack Damage__  19 ![Half](../assets/sprites/half.png){width="16"} - 21 ![Half](../assets/sprites/half.png){width="16"}  
+    __Attack Speed__  0.7  
+    __Give Command__  ```
+                      function incendium:admin/give/greatsword_of_sacrifice
+                      ```
 
 
 # Description
