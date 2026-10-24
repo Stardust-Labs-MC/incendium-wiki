@@ -3,7 +3,7 @@
 
 
 
-!!! tip inline end "Scarlet Rapier"
+!!! tip inline end "Hovering Inferno"
 
     
     === "Hovering Inferno"
