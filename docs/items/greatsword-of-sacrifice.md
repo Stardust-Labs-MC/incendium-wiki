@@ -2,8 +2,7 @@
 
 
 
-| ![Greatsword of Sacrifice](../assets/items/sacrifice_hand.png)|
-|  Attck Damage | 18-21 |
+![Greatsword of Sacrifice](../assets/items/sacrifice_hand.png){ align=right }
 
 
 This is a heavy but powerful sword that does a lot of damage in exchange for damaging the user.
