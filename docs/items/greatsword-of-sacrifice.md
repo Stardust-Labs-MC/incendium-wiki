@@ -1,10 +1,15 @@
 ## Greatsword of Sacrifice
 
 
-!!! tip inline end "Greatsword of Sacrifice ![Greatsword of Sacrifice](../assets/sprites/items/sacrifice.png)"
+!!! tip inline end "Greatsword of Sacrifice"
 
-    ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
     
+    === "Held Sprite"
+        ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
+
+    === "GUI Sprite"
+        ![Greatsword of Sacrifice](../assets/items/sacrifice.png){.center}
+
     __Base Item:__     Netherite sword  
     __Durability:__  2031  
     __Attack Damage:__  19 (![Full](../assets/sprites/full.png){width="9"} x 9.5) - 21 (![Full](../assets/sprites/full.png){width="9"} x 10.5)  
@@ -27,6 +32,8 @@ This item is immune to burning in lava/explosions and most other means of destro
 # Obtaining
 
 The Greatsword of sacrifice has a 50% chance of spawning on the top level of the main tower in the [Forbidden castle](../structures/forbidden-castle.md).
+
+When obtaining the item it will have a random attack value from a full number range of 19-21
 
 
 # Modifications
