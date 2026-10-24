@@ -13,11 +13,13 @@
         
 
     __Base Mob:__     Blaze  
-    __Health:__  700 (6 ![Full](../assets/sprites/full.png){width="9"})<br>- ;+ 200 (100 ![Full](../assets/sprites/full.png){width="9"}) per additional player  
+    __Health:__  700 (6 ![Full](../assets/sprites/full.png){width="9"})
+    - + 200 (100 ![Full](../assets/sprites/full.png){width="9"}) per additional player  
     
     __Health Bonus:__  + 200 (100 ![Full](../assets/sprites/full.png){width="9"}) per additional player  
     __Attack Damage:__  [INSERT] (![Full](../assets/sprites/full.png){width="9"} x 3) - 7 (![Full](../assets/sprites/full.png){width="9"} x 3.5)  
     __Loot:__  [Infernal Key](https://stardust-labs-mc.github.io/incendium-wiki/items/infernal-key/)
+    
     __Death XP:__  [INSERTHERE]
     > ``` mcf title="Summon Command"
       [INSERT]
