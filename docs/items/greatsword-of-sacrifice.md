@@ -1,13 +1,13 @@
 # Greatsword of Sacrifice
 
 
-!!! tip inline end "Greatsword of Sacrifice"
+!!! tip inline end "Greatsword of Sacrifice" {width="800"}
 
-    ![Greatsword of Sacrifice](../assets/items/sacrifice_hand.png)
+    ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png) {.center}
     
     __Base Item__     Netherite sword  
     __Durability__  2031  
-    __Attack Damage__  19 ![Half](../assets/sprites/half.png){width="16"} - 21 ![Half](../assets/sprites/half.png){width="16"}  
+    __Attack Damage__  19 ![Half](../assets/sprites/half.png){width="9"} - 21 ![Half](../assets/sprites/half.png){width="9"}  
     __Attack Speed__  0.7  
     __Give Command__  ```
                       function incendium:admin/give/greatsword_of_sacrifice
