@@ -8,14 +8,14 @@
         ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
 
     === "GUI Sprite"
-        ![Greatsword of Sacrifice](../assets/items/sacrifice.png){.center}
+        ![Greatsword of Sacrifice](../assets/items/sacrifice.png){width="64"}
 
     __Base Item:__     Netherite sword  
     __Durability:__  2031  
     __Attack Damage:__  19 (![Full](../assets/sprites/full.png){width="9"} x 9.5) - 21 (![Full](../assets/sprites/full.png){width="9"} x 10.5)  
     __Attack Speed:__  0.7  
     __Minimum Attack Charge:__  0.75  
-    __Disables Blocking:__  Yes, for 2 seconds  
+    __Disables Blocking:__  Yes, for 2s  
     > ``` mcf title="Give Item Command"
       function incendium:admin/give/greatsword_of_sacrifice
       ```
