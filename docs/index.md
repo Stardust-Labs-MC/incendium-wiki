@@ -15,3 +15,4 @@ Click below to see all the things Incendium has to offer.
 - [Structures](structures/index.md)
 - [Items](items/index.md)
 - [Mobs](mobs/index.md)
+- [Bosses](bosses/index.md)
