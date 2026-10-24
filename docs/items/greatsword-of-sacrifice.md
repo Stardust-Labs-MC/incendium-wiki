@@ -26,7 +26,7 @@ This item is immune to burning in lava/explosions and most other means of destro
 
 # Obtaining
 
-The Greatsword of sacrifice has a 50% chance of spawning on the top level of the main tower in the Forbidden castle.
+The Greatsword of sacrifice has a 50% chance of spawning on the top level of the main tower in the [Forbidden castle](../structures/forbidden-castle.md).
 
 
 # Modifications
