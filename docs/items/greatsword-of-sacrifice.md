@@ -3,7 +3,7 @@
 
 !!! tip inline end "Greatsword of Sacrifice"
 
-    ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png) {.center}
+    ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
     
     __Base Item__     Netherite sword  
     __Durability__  2031  
