@@ -1,7 +1,7 @@
 ## Greatsword of Sacrifice
 
 
-!!! tip inline end "Greatsword of Sacrifice"
+!!! tip inline end "Greatsword of Sacrifice ![Greatsword of Sacrifice](../assets/sprites/items/sacrifice.png)"
 
     ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
     
