@@ -8,7 +8,7 @@
         ![Greatsword of Sacrifice](../assets/items/sacrifice_held.png){.center}
 
     === "GUI Sprite"
-        ![Greatsword of Sacrifice](../assets/items/sacrifice.png){width="64"}
+        ![Greatsword of Sacrifice](../assets/items/sacrifice_gui.png){.center}
 
     __Base Item:__     Netherite sword  
     __Durability:__  2031  
