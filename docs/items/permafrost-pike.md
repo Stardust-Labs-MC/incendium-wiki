@@ -13,7 +13,7 @@
     __Base Item:__     Netherite spear  
     __Durability:__  2031  
     __Attack Damage:__  6 (![Full](../assets/sprites/full.png){width="9"} x 3)  
-    __Attack Speed:__  0.6
+    __Attack Speed:__  0.6  
     __Minimum Attack Charge:__  1  
     __Friction:__  -1  
     > ``` mcf title="Give Item Command"
