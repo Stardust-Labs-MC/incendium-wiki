@@ -13,7 +13,7 @@
     __Base Item:__     Netherite sword  
     __Durability:__  2031  
     __Attack Damage:__  6 (![Full](../assets/sprites/full.png){width="9"} x 3) - 7 (![Full](../assets/sprites/full.png){width="9"} x 3.5)  
-    __Attack Speed:__  0.7 - 0.9  
+    __Attack Speed:__  1.7 - 1.9  
     __Minimum Attack Charge:__  0.5  
     > ``` mcf title="Give Item Command"
       function incendium:admin/give/scarlet_rapier
