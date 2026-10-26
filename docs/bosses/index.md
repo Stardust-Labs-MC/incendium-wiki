@@ -1,6 +1,6 @@
 # Mobs
 
-Here is a list of all bosses in Incendium.
+A list of all bosses in Incendium.
 
-- [Hovering Inferno](https://stardust-labs-mc.github.io/incendium-wiki/bosses/hovering-inferno)
-- [Wither+](https://stardust-labs-mc.github.io/incendium-wiki/bosses/warped-wither)
+- [Hovering Inferno](hovering-inferno.md)
+- [Warped Wither](warped-wither.md)

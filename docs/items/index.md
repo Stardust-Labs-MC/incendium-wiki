@@ -4,15 +4,15 @@ Here is a list of all custom items added by Incendium.
 
 |Item | Category |
 | :--- | --- |
-| [Greatsword of Sacrifice](greatsword-of-sacrifice.md) ![Sprite](../assets/sprites/items/sacrifice_hand.png){width="20"} | Weapon |
-| [Scarlet Rapier](scarlet-rapier.md) ![Sprite](../assets/sprites/items/scarlet.png){width="20"} | Weapon |
-| [Warping Witherblade](warping-witherblade.md) ![Sprite](../assets/sprites/items/warping_witherblade.png)| Weapon |
-| [Daybreaker](daybreaker.md) ![Sprite](../assets/sprites/items/daybreaker.png)| Weapon |
+| [Greatsword of Sacrifice](greatsword-of-sacrifice.md) ![Sprite](../assets/sprites/items/sacrifice_hand.png){width="24"} | Weapon |
+| [Scarlet Rapier](scarlet-rapier.md) ![Sprite](../assets/sprites/items/scarlet.png){width="24"} | Weapon |
+| [Warping Witherblade](warping-witherblade.md) ![Sprite](../assets/sprites/items/warping_witherblade.png){width="24"} | Weapon |
+| [Daybreaker](daybreaker.md) ![Sprite](../assets/sprites/items/daybreaker.png){width="24"} | Weapon |
 | [Withersbane](withersbane.md) | Weapon |
 | [Dawnlight](dawnlight.md) | Weapon |
 | [Blazing Hatchet](blazing-hatchet.md) | Weapon |
 | [Voltaic Trident](voltaic-trident.md) | Weapon |
-| [Permafrost Pike](permafrost-pike.md) ![Sprite](../assets/sprites/items/chilling/chilling_small.png){width="20"} | Weapon |
+| [Permafrost Pike](permafrost-pike.md) ![Sprite](../assets/sprites/items/chilling/chilling_small.png){width="24"} | Weapon |
 | [Cake Batter](cake-batter.md) | Weapon |
 | [Ragnarok](ragnarok.md) | Weapon |
 | [Trailblazer](trailblazer.md) | Weapon |

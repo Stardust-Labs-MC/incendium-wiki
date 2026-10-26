@@ -19,8 +19,8 @@
     __Loot:__  [Infernal Key](https://stardust-labs-mc.github.io/incendium-wiki/items/infernal-key/)  
     __Death XP:__  [INSERTHERE]
     > ``` mcf title="Summon Command"
-      [INSERT]
+      function incendium:admin/summon/hovering_inferno
       ```
 
-The **Hovering Inferno** is the challenging, flagship  boss of Incendium, summoned by sacrificing an [Infernal Charm](https://stardust-labs-mc.github.io/incendium-wiki/items/infernal-charm/) at an [Infernal Altar](https://stardust-labs-mc.github.io/incendium-wiki/structures/infernal-altar/). The boss consists of 2 phases of both randomized and sequenced boss patterns, as well as player influenced behavior. 
+The **Hovering Inferno** is the challenging, flagship boss of Incendium, summoned by sacrificing an [Infernal Charm](https://stardust-labs-mc.github.io/incendium-wiki/items/infernal-charm/) at an [Infernal Altar](https://stardust-labs-mc.github.io/incendium-wiki/structures/infernal-altar/). The boss consists of 2 phases of both randomized and sequenced boss patterns, as well as player influenced behavior. 
 
