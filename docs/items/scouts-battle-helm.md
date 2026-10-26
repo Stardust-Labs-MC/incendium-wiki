@@ -17,7 +17,7 @@
 
 Scout's Battle Helm is a unique piece of armor with the ability to gain speed the lower your health is.
 
-Depending on your current Health the helmet will moddify your movement speed, at max health the helm will actually slow you down by 10% and will get severe if you have health from ![full](../assets/sprites/absorbing_full.png){width=9}. But at 8 ![full](../assets/sprites/full.png){width=9}'s and less you will start gaining a speed boost. This maxes out at 90% speed at 2.5 ![full](../assets/sprites/full.png){width=9}'s.
+Depending on your current Health the helmet will moddify your movement speed, at max health the helm will actually slow you down by 10% and will get severe if you have health from Absorption health![full](../assets/sprites/absorbing_full.png){width=9}. But at 8 ![full](../assets/sprites/full.png){width=9}'s and less you will start gaining a speed boost. This maxes out at 90% speed at 2.5 ![full](../assets/sprites/full.png){width=9}'s.
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
@@ -38,4 +38,4 @@ After that, Starmute added the ability for the wearer to be faster depending on 
 # Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
-The Scout's Battle Helm works all sword enchantments but can not be enchanted directly, you must combine enchant books in order to add any enchants
+The Scout's Battle Helm works all helmet enchantments but can not be enchanted directly, you must combine enchant books in order to add any enchants
