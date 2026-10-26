@@ -25,7 +25,7 @@ Here is a list of all custom items added by Incendium.
 | [Radiation Shield](radiation-shield.md) | Shield |
 | [Prismatica](prismatica.md) | Shield |
 | [Scout's Battle Helm](scouts-battle-helm.md) | Armor |
-| [Infernal Wings](infernal-wings.md) | Armor |
+| [Infernal Wings](infernal-wings.md) ![Sprite](../assets/sprites/items/infernal_elytra.png.png){width="24"} | Armor |
 | [Hazmat Armor](hazmat-armor.md) | Armor |
 | [Hefty Pickaxe](hefty-pickaxe.md) | Tool |
 | [Lunacy Torch](lunacy-torch.md) | Tool |
