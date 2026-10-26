@@ -35,6 +35,9 @@ The Warping Witherblade is dropped by a boss the [Warped Wither](../bosses/warpe
 
 When obtaining the item it will have a random movement speed value from -15% to -22.5% in segments of 2.5% between the two.
 
+# History
+
+The Warping Witherblade is a Patron item requested by Blu.
 
 # Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely

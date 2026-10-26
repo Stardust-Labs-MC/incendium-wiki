@@ -24,7 +24,7 @@ Here is a list of all custom items added by Incendium.
 | [Piglin Slayer](piglin-slayer.md) | Weapon |
 | [Radiation Shield](radiation-shield.md) | Shield |
 | [Prismatica](prismatica.md) | Shield |
-| [Scout's Battle Helm](scouts-battle-helm.md) | Armor |
+| [Scout's Battle Helm](scouts-battle-helm.md) ![Sprite](../assets/sprites/items/scouts.png){width="24"} | Armor |
 | [Infernal Wings](infernal-wings.md) ![Sprite](../assets/sprites/items/infernal_elytra.png){width="24"} | Armor |
 | [Hazmat Armor](hazmat-armor.md) | Armor |
 | [Hefty Pickaxe](hefty-pickaxe.md) | Tool |

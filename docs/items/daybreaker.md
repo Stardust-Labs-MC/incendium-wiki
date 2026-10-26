@@ -37,6 +37,10 @@ This item is immune to burning in lava/explosions and most other means of destro
 
 The Daybreaker can be found in the basement of the [Sanctum](../structures/sanctum.md) at the end of a maze .
 
+# History
+
+The Daybreaker is a Patron item requested by ZombiePogman.
+
 
 # Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
