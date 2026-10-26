@@ -4,7 +4,7 @@ Here is a list of all custom items added by Incendium.
 
 |Item | Category |
 | :--- | --- |
-| [Greatsword of Sacrifice](greatsword-of-sacrifice.md) ![Sprite](../assets/sprites/items/sacrifice_hand.png){width="24"} | Weapon |
+| [Greatsword of Sacrifice](greatsword-of-sacrifice.md) ![Sprite](../assets/sprites/items/sacrifice.png){width="24"} | Weapon |
 | [Scarlet Rapier](scarlet-rapier.md) ![Sprite](../assets/sprites/items/scarlet.png){width="24"} | Weapon |
 | [Warping Witherblade](warping-witherblade.md) ![Sprite](../assets/sprites/items/warping_witherblade.png){width="24"} | Weapon |
 | [Daybreaker](daybreaker.md) ![Sprite](../assets/sprites/items/daybreaker.png){width="24"} | Weapon |
