@@ -24,11 +24,12 @@
 
 The Blazing Hatchet is an axe that holds explosive force on impact
 
-When striking a foe they will be lit on fire for 5 seconds and it will create fiery explosion at the struck target, the explosion will cause foes in an area to take 6 (![Full](../assets/sprites/full.png){width="9"} x 3)'s of damage, knockback and be lit on fire for 3 seconds. (Due to technical limitations, fire from the explosion only effects mobs). This explosion has a 2 second cooldown. While the damage and fire from the explosion don't effect the user the knock back does, allowing for users to get a jump boost from hitting foes if they are close enough.
+When striking a foe they will be lit on fire for 5 seconds and it will create fiery explosion at the struck target, the explosion will cause foes in an area to take 6 (![Full](../assets/sprites/full.png){width="9"} x 3)'s of damage, knockback and be lit on fire for 3 seconds. (_Due to technical limitations, fire from the explosion only effects mobs_). This explosion has a 2 second cooldown. While the damage and fire from the explosion don't effect the user the knock back does, allowing for users to get a jump boost from hitting foes if they are close enough.
 
 When mining logs using the Blazing Hatchet the logs will be turned into charcoal
 
 This item is immune to burning in lava/explosions and most other means of destroying items
+
 
 # Obtaining
 
