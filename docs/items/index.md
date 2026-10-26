@@ -10,7 +10,7 @@ Here is a list of all custom items added by Incendium.
 | [Daybreaker](daybreaker.md) ![Sprite](../assets/sprites/items/daybreaker.png){width="24"} | Weapon |
 | [Withersbane](withersbane.md) | Weapon |
 | [Dawnlight](dawnlight.md) | Weapon |
-| [Blazing Hatchet](blazing-hatchet.md) | Weapon |
+| [Blazing Hatchet](blazing-hatchet.md) ![Sprite](../assets/sprites/items/blazing.png){width="24"} | Weapon |
 | [Voltaic Trident](voltaic-trident.md) | Weapon |
 | [Permafrost Pike](permafrost-pike.md) ![Sprite](../assets/sprites/items/chilling/chilling_small.png){width="24"} | Weapon |
 | [Cake Batter](cake-batter.md) | Weapon |
