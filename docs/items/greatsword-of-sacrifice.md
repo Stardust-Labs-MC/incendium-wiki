@@ -10,7 +10,7 @@
     === "GUI Sprite"
         ![Greatsword of Sacrifice](../assets/items/sacrifice_gui.png){.center}
 
-    __Base Item:__     Netherite sword  
+    __Base Item:__     Netherite Sword  
     __Durability:__  2031  
     __Attack Damage:__  19 (![Full](../assets/sprites/full.png){width="9"} x 9.5) - 21 (![Full](../assets/sprites/full.png){width="9"} x 10.5)  
     __Attack Speed:__  0.7  

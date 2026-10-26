@@ -10,7 +10,8 @@
     === "GUI Sprite"
         ![Permafrost Pike](../assets/items/chilling_small.png){.center}
 
-    __Base Item:__     Netherite spear  
+    __Base Item:__     Netherite Spear  
+    __Item Model:__     Diamond Spear  
     __Durability:__  2031  
     __Attack Damage:__  6 (![Full](../assets/sprites/full.png){width="9"} x 3)  
     __Attack Speed:__  0.6  

@@ -6,7 +6,7 @@
     
     ![Warping Witherblade](../assets/items/warping_witherblade_animated.gif){width="196"}
 
-    __Base Item:__     Netherite sword  
+    __Base Item:__     Netherite Sword  
     __Durability:__  2031  
     __Attack Damage:__  12 (![Full](../assets/sprites/full.png){width="9"} x 6)  
     __Attack Speed:__  0.7  

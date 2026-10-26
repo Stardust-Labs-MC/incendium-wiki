@@ -10,7 +10,7 @@
     === "GUI Sprite"
         ![Scarlet Rapier](../assets/items/scarlet_gui.png){.center}
 
-    __Base Item:__     Netherite sword  
+    __Base Item:__     Netherite Sword  
     __Durability:__  2031  
     __Attack Damage:__  6 (![Full](../assets/sprites/full.png){width="9"} x 3) - 7 (![Full](../assets/sprites/full.png){width="9"} x 3.5)  
     __Attack Speed:__  1.7 - 1.9  

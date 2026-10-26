@@ -6,7 +6,7 @@
     
     ![Daybreaker](../assets/items/daybreaker.png){.center}
 
-    __Base Item:__     Netherite sword  
+    __Base Item:__     Netherite Sword  
     __Durability:__  2031  
     __Attack Damage:__  4 (![Full](../assets/sprites/full.png){width="9"} x 2)  
     __Attack Speed:__  2  

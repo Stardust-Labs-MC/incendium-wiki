@@ -28,7 +28,7 @@ Here is a list of all custom items added by Incendium.
 | [Infernal Wings](infernal-wings.md) ![Sprite](../assets/sprites/items/infernal_elytra.png){width="24"} | Armor |
 | [Hazmat Armor](hazmat-armor.md) | Armor |
 | [Hefty Pickaxe](hefty-pickaxe.md) | Tool |
-| [Lunacy Torch](lunacy-torch.md) | Tool |
+| [Lunacy Torch](lunacy-torch.md) ![Sprite](../assets/sprites/items/torch_of_lunacy.png){width="24"} | Tool |
 | [Infernal Charm](infernal-charm.md) | Tool |
 | [Warren Crest](warren-crest.md) | Tool |
 | [Infernal Key](infernal-key.md) | Tool |
