@@ -153,15 +153,15 @@ Here is a list of all custom items added by Incendium.
 
 |Item | Category |
 | :--- | --- |
-| [Greatsword of Sacrifice](items/greatsword-of-sacrifice.md) ![Sprite](items/../assets/sprites/items/sacrifice.png){width="24"} | Weapon |
-| [Scarlet Rapier](items/scarlet-rapier.md) ![Sprite](items/../assets/sprites/items/scarlet.png){width="24"} | Weapon |
-| [Warping Witherblade](items/warping-witherblade.md) ![Sprite](items/../assets/sprites/items/warping_witherblade.png){width="24"} | Weapon |
-| [Daybreaker](items/daybreaker.md) ![Sprite](items/../assets/sprites/items/daybreaker.png){width="24"} | Weapon |
+| [Greatsword of Sacrifice](items/greatsword-of-sacrifice.md) ![Sprite](assets/sprites/items/sacrifice.png){width="24"} | Weapon |
+| [Scarlet Rapier](items/scarlet-rapier.md) ![Sprite](assets/sprites/items/scarlet.png){width="24"} | Weapon |
+| [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/warping_witherblade.png){width="24"} | Weapon |
+| [Daybreaker](items/daybreaker.md) ![Sprite](assets/sprites/items/daybreaker.png){width="24"} | Weapon |
 | [Withersbane](items/withersbane.md) | Weapon |
 | [Dawnlight](items/dawnlight.md) | Weapon |
-| [Blazing Hatchet](items/blazing-hatchet.md) ![Sprite](items/../assets/sprites/items/blazing.png){width="24"} | Weapon |
+| [Blazing Hatchet](items/blazing-hatchet.md) ![Sprite](assets/sprites/items/blazing.png){width="24"} | Weapon |
 | [Voltaic Trident](items/voltaic-trident.md) | Weapon |
-| [Permafrost Pike](items/permafrost-pike.md) ![Sprite](items/../assets/sprites/items/chilling/chilling_small.png){width="24"} | Weapon |
+| [Permafrost Pike](items/permafrost-pike.md) ![Sprite](assets/sprites/items/chilling/chilling_small.png){width="24"} | Weapon |
 | [Cake Batter](items/cake-batter.md) | Weapon |
 | [Ragnarok](items/ragnarok.md) | Weapon |
 | [Trailblazer](items/trailblazer.md) | Weapon |
@@ -173,11 +173,11 @@ Here is a list of all custom items added by Incendium.
 | [Piglin Slayer](items/piglin-slayer.md) | Weapon |
 | [Radiation Shield](items/radiation-shield.md) | Shield |
 | [Prismatica](items/prismatica.md) | Shield |
-| [Scout's Battle Helm](items/scouts-battle-helm.md) ![Sprite](items/../assets/sprites/items/scouts.png){width="24"} | Armor |
-| [Infernal Wings](items/infernal-wings.md) ![Sprite](items/../assets/sprites/items/infernal_elytra.png){width="24"} | Armor |
+| [Scout's Battle Helm](items/scouts-battle-helm.md) ![Sprite](assets/sprites/items/scouts.png){width="24"} | Armor |
+| [Infernal Wings](items/infernal-wings.md) ![Sprite](assets/sprites/items/infernal_elytra.png){width="24"} | Armor |
 | [Hazmat Armor](items/hazmat-armor.md) | Armor |
 | [Hefty Pickaxe](items/hefty-pickaxe.md) | Tool |
-| [Lunacy Torch](items/lunacy-torch.md) ![Sprite](items/../assets/sprites/items/torch_of_lunacy.png){width="24"} | Tool |
+| [Lunacy Torch](items/lunacy-torch.md) ![Sprite](assets/sprites/items/torch_of_lunacy.png){width="24"} | Tool |
 | [Infernal Charm](items/infernal-charm.md) | Tool |
 | [Warren Crest](items/warren-crest.md) | Tool |
 | [Infernal Key](items/infernal-key.md) | Tool |
