@@ -31,7 +31,7 @@ Below is a list of all biomes brought by Incendium.
 
 To add to the overhauled terrain, Incendium overhauls some vanilla Nether biomes with new features and terrain. Incendium also makes use of the possibility of changing the terrain's height to make the Nether 192 blocks high, meaning x1.5 times the height of the Nether in Vanilla.
 
-Below is a list of all vnilla biomes that recieved reworks/additions in Incendium.
+Below is a list of all vanilla biomes that recieved reworks/additions in Incendium.
 
 
 - [Soul Sand Valley](https://stardust-labs-mc.github.io/incendium-wiki/biomes/vanilla-biome-changes/#soul-sand-valley)
