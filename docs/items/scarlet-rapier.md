@@ -1,4 +1,4 @@
-### Description
+
 
 
 !!! tip inline end "Scarlet Rapier"
