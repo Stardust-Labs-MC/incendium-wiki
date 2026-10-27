@@ -157,40 +157,82 @@ A list of all bosses in Incendium.
 
 Here is a list of all custom items added by Incendium.
 
-|Item | Category |
-| :--- | --- |
-| [Greatsword of Sacrifice](items/greatsword-of-sacrifice.md) ![Sprite](assets/sprites/items/sacrifice.png){width="24"} | Weapon |
-| [Scarlet Rapier](items/scarlet-rapier.md) ![Sprite](assets/sprites/items/scarlet.png){width="24"} | Weapon |
-| [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/warping_witherblade.png){width="24"} | Weapon |
-| [Daybreaker](items/daybreaker.md) ![Sprite](assets/sprites/items/daybreaker.png){width="24"} | Weapon |
-| [Withersbane](items/withersbane.md) | Weapon |
-| [Dawnlight](items/dawnlight.md) | Weapon |
-| [Blazing Hatchet](items/blazing-hatchet.md) ![Sprite](assets/sprites/items/blazing.png){width="24"} | Weapon |
-| [Voltaic Trident](items/voltaic-trident.md) | Weapon |
-| [Permafrost Pike](items/permafrost-pike.md) ![Sprite](assets/sprites/items/chilling/chilling_small.png){width="24"} | Weapon |
-| [Cake Batter](items/cake-batter.md) | Weapon |
-| [Ragnarok](items/ragnarok.md) | Weapon |
-| [Trailblazer](items/trailblazer.md) | Weapon |
-| [Sentrys Wrath](items/sentrys-wrath.md) | Weapon |
-| [Holy Wrath](items/holy-wrath.md) | Weapon |
-| [Firestorm](items/firestorm.md) | Weapon |
-| [Multiplex](items/multiplex.md) | Weapon |
-| [Spites Echo](items/spites-echo.md) | Weapon |
-| [Piglin Slayer](items/piglin-slayer.md) | Weapon |
-| [Radiation Shield](items/radiation-shield.md) | Shield |
-| [Prismatica](items/prismatica.md) | Shield |
-| [Scout's Battle Helm](items/scouts-battle-helm.md) ![Sprite](assets/sprites/items/scouts.png){width="24"} | Armor |
-| [Infernal Wings](items/infernal-wings.md) ![Sprite](assets/sprites/items/infernal_elytra.png){width="24"} | Armor |
-| [Hazmat Armor](items/hazmat-armor.md) | Armor |
-| [Hefty Pickaxe](items/hefty-pickaxe.md) | Tool |
-| [Lunacy Torch](items/lunacy-torch.md) ![Sprite](assets/sprites/items/torch_of_lunacy.png){width="24"} | Tool |
-| [Infernal Charm](items/infernal-charm.md) | Tool |
-| [Warren Crest](items/warren-crest.md) | Tool |
-| [Infernal Key](items/infernal-key.md) | Tool |
-| [Unstable Powder](items/unstable-powder.md) | Consumable |
-| [Returning Scroll](items/returning-scroll.md) | Consumable |
-| [Restless Anture](items/restless-nature.md) | Consumable |
-| [Custom Potions](items/custom-potions.md) | Consumable |
-| [Collectable Banners](items/custom-banners.md) | Collectables |
-| [Dev Heads](items/dev-heads.md) | Collectables |
+
+
+
+
+<div class="grid cards" markdown>
+
+-   __Melee Weapons__
+
+    ---
+
+    - [Greatsword of Sacrifice](items/greatsword-of-sacrifice.md) ![Sprite](assets/sprites/items/sacrifice.png){width="24"}
+    - [Scarlet Rapier](items/scarlet-rapier.md) ![Sprite](assets/sprites/items/scarlet.png){width="24"}
+    - [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/warping_witherblade.png){width="24"}
+    - [Daybreaker](items/daybreaker.md) ![Sprite](assets/sprites/items/daybreaker.png){width="24"}
+    - [Withersbane](items/withersbane.md)
+    - [Dawnlight](items/dawnlight.md)
+    - [Blazing Hatchet](items/blazing-hatchet.md) ![Sprite](assets/sprites/items/blazing.png){width="24"}
+    - [Voltaic Trident](items/voltaic-trident.md)
+    - [Permafrost Pike](items/permafrost-pike.md) ![Sprite](assets/sprites/items/chilling/chilling_small.png){width="24"}
+    - [Cake Batter](items/cake-batter.md)
+    - [Piglin Slayer](items/piglin-slayer.md)
+    
+-   __Ranged Weapons__
+
+    ---
+
+    - [Ragnarok](items/ragnarok.md)
+    - [Trailblazer](items/trailblazer.md)
+    - [Sentrys Wrath](items/sentrys-wrath.md)
+    - [Holy Wrath](items/holy-wrath.md)
+    - [Firestorm](items/firestorm.md)
+    - [Multiplex](items/multiplex.md)
+    - [Spites Echo](items/spites-echo.md)
+
+-   __Shields__
+
+    ---
+
+    - [Radiation Shield](items/radiation-shield.md)
+    - [Prismatica](items/prismatica.md)
+
+-   __Tools__
+
+    ---
+
+    - [Hefty Pickaxe](items/hefty-pickaxe.md)
+    - [Lunacy Torch](items/lunacy-torch.md) ![Sprite](assets/sprites/items/torch_of_lunacy.png){width="24"}
+    - [Infernal Charm](items/infernal-charm.md)
+    - [Warren Crest](items/warren-crest.md)
+    - [Infernal Key](items/infernal-key.md)
+
+-   __Equipment__
+
+    ---
+
+    - [Scout's Battle Helm](items/scouts-battle-helm.md) ![Sprite](assets/sprites/items/scouts.png){width="24"}
+    - [Infernal Wings](items/infernal-wings.md) ![Sprite](assets/sprites/items/infernal_elytra.png){width="24"}
+    - [Hazmat Armor](items/hazmat-armor.md)
+
+-   __Consumables__
+
+    ---
+
+    - [Unstable Powder](items/unstable-powder.md)
+    - [Returning Scroll](items/returning-scroll.md)
+    - [Returning Scroll](items/returning-scroll.md)
+    - [Restless Anture](items/restless-nature.md)
+    - [Custom Potions](items/custom-potions.md)
+
+-   __Consumables__
+
+    ---
+
+    - [Collectable Banners](items/custom-banners.md)
+    - [Dev Heads](items/dev-heads.md)
+    
+</div>
+
 
