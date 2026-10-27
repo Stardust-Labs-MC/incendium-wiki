@@ -26,13 +26,13 @@ Below is a list of all biomes brought by Incendium.
 
 Below is a list of all vnilla biomes that recieved reworks/additions in Incendium.
 
-- [Soul Sand Valley](biomes/soul-sand-valley.md)
+- [Soul Sand Valley](biomes/vanilla-biome-changes.md)
 
-- [Warped Forest](biomes/warped-forest.md)
+- [Warped Forest](biomes/vanilla-biome-changes.md)
 
-- [Crimson Forest](biomes/crimson-forest.md)
+- [Crimson Forest](biomes/vanilla-biome-changes.md)
 
-- [Basalt Deltas](biomes/basalt-deltas.md)
+- [Basalt Deltas](biomes/vanilla-biome-changes.md)
 
 
 ## Structures

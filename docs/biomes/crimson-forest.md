@@ -1,6 +1,0 @@
-### Description
-
--placeholder-
-
-
-## Gallery
