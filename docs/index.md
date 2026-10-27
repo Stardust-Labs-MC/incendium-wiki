@@ -234,9 +234,11 @@ A list of all bosses in Incendium.
 
 <div class="grid" markdown>
 
-[Hovering Inferno](bosses/hovering-inferno.md)
+[Hovering Inferno](bosses/hovering-inferno.md) 
+{ .card } 
 
-[Warped Wither](bosses/warped-wither.md)
+[Warped Wither](bosses/warped-wither.md) 
+{ .card } 
 
 
 </div>
