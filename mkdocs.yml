@@ -14,7 +14,7 @@ theme:
   features:
     - navigation.instant
     - navigation.top
-    - navigation.indexes
+    - navigation.integrate
     - navigation.tracking
     - search.suggest
     - search.highlight
@@ -60,41 +60,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Biomes: 
-      - https://stardust-labs-mc.github.io/incendium-wiki/#biomes
-      - Ash Barrens: biomes/ash-barrens.md
-      - Quartz Flats: biomes/quartz-flats.md
-      - Infernal Dunes: biomes/infernal-dunes.md
-      - Toxic Heaps: biomes/toxic-heap.md
-      - Voltaic Heaps: biomes/voltaic-heap.md
-      - Withered Forest: biomes/withered-forest.md
-      - Magma Marsh: biomes/magma-marsh.md
-      
-  - Structures:
-      - https://stardust-labs-mc.github.io/incendium-wiki/#structures
-      - Forbidden Castle: structures/forbidden-castle.md
-      - Sanctum: structures/sanctum.md
-      - Infernal Altar: structures/infernal-altar.md
-      - Ruined Lab: structures/ruined-lab.md
-      - Voltaic Pylon: structures/voltaic-pylon.md
-      - Nether Reactor: structures/nether-reactor.md
-      - Pipeline: structures/quartz-kitchen.md
-      - Piglin Village: structures/piglin-village.md
-  - Items:
-      - https://stardust-labs-mc.github.io/incendium-wiki/#items
-      - Greatsword of Sacrifice: items/greatsword-of-sacrifice.md
-      - Scarlet Rapier: items/scarlet-rapier.md
-      - Permafrost Pike: items/permafrost-pike.md
-      - Daybreaker: items/daybreaker.md
-      - Warping Witherblade: items/warping-witherblade.md
-      - Blazing Hatchet: items/blazing-hatchet.md
-      - Scout's Battle Helm: items/scouts-battle-helm.md
-      - Infernal Wings: items/infernal-wings.md
-      - Torch of Lunacy: items/lunacy-torch.md
-  - Mobs:
-      - https://stardust-labs-mc.github.io/incendium-wiki/#mobs
-      - Castle Knight: mobs/castle-knight.md
-  - Bosses:
-      - https://stardust-labs-mc.github.io/incendium-wiki/#bosses
-      - Hovering Inferno: bosses/hovering-inferno.md
-      - Warped Wither: bosses/warped-wither.md
+

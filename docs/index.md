@@ -1,4 +1,4 @@
-# Incendium: Reignited
+### Incendium: Reignited
 
 ![Home](assets/incendium-banner.png)
 
@@ -9,7 +9,7 @@ While the Stardust Labs Miraheze wiki is out of date and bloated, this exists as
 
 Scroll below to see all the things Incendium has to offer.
 
-# Biomes
+## Biomes
 
 Below is a list of all biomes brought by Incendium.
 
@@ -35,7 +35,7 @@ Below is a list of all vnilla biomes that recieved reworks/additions in Incendiu
 - [Basalt Deltas](biomes/basalt-deltas.md)
 
 
-# Structures
+## Structures
 
 Below is a list of all structures brought by Incendium.
 
@@ -52,7 +52,7 @@ Below is a list of all structures brought by Incendium.
 | [Piglin Village](structures/piglin-village.md) |`incendium:piglin_village` |
 
 
-# Mobs
+## Mobs
 
 Here is a list of all mobs added by Incendium.
 
@@ -153,7 +153,7 @@ A list of all bosses in Incendium.
 - [Hovering Inferno](bosses/hovering-inferno.md)
 - [Warped Wither](bosses/warped-wither.md)
 
-# Items
+## Items
 
 Here is a list of all custom items added by Incendium.
 
@@ -232,7 +232,7 @@ Here is a list of all custom items added by Incendium.
 
     - [Collectable Banners](items/custom-banners.md)
     - [Dev Heads](items/dev-heads.md)
-    
+
 </div>
 
 
