@@ -9,6 +9,7 @@
 
 
     __Base Item:__     Netherite Axe  
+    __Item Model:__     Copper Axe  
     __Durability:__  2031  
     __Attack Damage:__  9 (![Full](../assets/sprites/full.png){width="9"} x 4.5)  
     __Attack Speed:__  0.7  

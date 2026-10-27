@@ -109,7 +109,7 @@ Here is a list of all custom items added by Incendium.
 
     ---
 
-    - [Hefty Pickaxe](items/hefty-pickaxe.md)
+    - [Hefty Pickaxe](items/hefty-pickaxe.md) ![Sprite](assets/sprites/items/hefty.png){width="24"}
     - [Lunacy Torch](items/lunacy-torch.md) ![Sprite](assets/sprites/items/torch_of_lunacy.png){width="24"}
     - [Infernal Charm](items/infernal-charm.md)
     - [Warren Crest](items/warren-crest.md)
