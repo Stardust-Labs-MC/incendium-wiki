@@ -9,6 +9,11 @@ While the Stardust Labs Miraheze wiki is out of date and bloated, this exists as
 
 Scroll below to see all the things Incendium has to offer.
 
+
+-placeholder-
+
+
+
 ## Biomes
 
 Below is a list of all biomes brought by Incendium.
@@ -24,15 +29,18 @@ Below is a list of all biomes brought by Incendium.
 | [Magma Marsh](biomes/magma-marsh.md) |`incendium:magma_marsh` |
 
 
+To add to the overhauled terrain, Incendium overhauls some vanilla Nether biomes with new features and terrain. Incendium also makes use of the possibility of changing the terrain's height to make the Nether 192 blocks high, meaning x1.5 times the height of the Nether in Vanilla.
+
 Below is a list of all vnilla biomes that recieved reworks/additions in Incendium.
 
-- [Soul Sand Valley](biomes/vanilla-biome-changes.md)
 
-- [Warped Forest](biomes/vanilla-biome-changes.md)
+- [Soul Sand Valley](https://stardust-labs-mc.github.io/incendium-wiki/biomes/vanilla-biome-changes/#soul-sand-valley)
 
-- [Crimson Forest](biomes/vanilla-biome-changes.md)
+- [Warped Forest](https://stardust-labs-mc.github.io/incendium-wiki/biomes/vanilla-biome-changes/#warped-forest)
 
-- [Basalt Deltas](biomes/vanilla-biome-changes.md)
+- [Crimson Forest](https://stardust-labs-mc.github.io/incendium-wiki/biomes/vanilla-biome-changes/#crimson-forest)
+
+- [Basalt Deltas](https://stardust-labs-mc.github.io/incendium-wiki/biomes/vanilla-biome-changes/#basalt-deltas)
 
 
 ## Structures
