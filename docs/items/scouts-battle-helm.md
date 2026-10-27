@@ -1,4 +1,4 @@
-## Scout's Battle Helm
+### Scout's Battle Helm
 
 
 !!! tip inline end "Scout's Battle Helm"
@@ -13,7 +13,7 @@
       ```
 
 
-# Description
+## Description
 
 Scout's Battle Helm is a unique piece of armor with the ability to gain speed the lower your health is.
 
@@ -21,12 +21,12 @@ Depending on your current Health the helmet will moddify your movement speed, at
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Scout's battle helm is dropped by [Piglin Scouts](../mobs/castle-scout.md) which have a 20% chance to be wearing them throughout the [Forbidden castle](../structures/forbidden-castle.md).
 
 
-# History
+## History
 
 The Scout's battle helm is a Patron item requested by TheDancyScout
 
@@ -35,7 +35,7 @@ Referencing the game Team Fortress 2, the Scout's battle helm name and creator i
 After that, Starmute added the ability for the wearer to be faster depending on their damage taken.
 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Scout's Battle Helm works all helmet enchantments but can not be enchanted directly, you must combine enchant books in order to add any enchants

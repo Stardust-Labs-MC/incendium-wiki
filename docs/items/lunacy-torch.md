@@ -1,4 +1,4 @@
-## Torch of Lunacy
+### Torch of Lunacy
 
 
 !!! tip inline end "Torch of Lunacy"
@@ -13,7 +13,7 @@
       ```
 
 
-# Description
+## Description
 
 The Torch of Lunacy is a soul torch with the ability to make [Dune Blazes](../mobs/dune-blazes.md) ignore you.
 
@@ -21,12 +21,12 @@ If this item is in your inventory then narby [Dune Blazes](../mobs/dune-blazes.m
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Torch of Lunacy is dropped by [Pipeline Sentries](../mobs/pipeline-sentry.md) from the [Pipeline](../structures/pipeline.md)
 
 
-# Modifications
+## Modifications
 
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 

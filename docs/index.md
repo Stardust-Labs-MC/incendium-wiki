@@ -163,7 +163,7 @@ Here is a list of all custom items added by Incendium.
 
 <div class="grid cards" markdown>
 
--   __#Melee Weapons__
+-   __Melee Weapons__
 
     ---
 
@@ -179,7 +179,7 @@ Here is a list of all custom items added by Incendium.
     - [Cake Batter](items/cake-batter.md)
     - [Piglin Slayer](items/piglin-slayer.md)
     
--   __#Ranged Weapons__
+-   __Ranged Weapons__
 
     ---
 
@@ -191,14 +191,14 @@ Here is a list of all custom items added by Incendium.
     - [Multiplex](items/multiplex.md)
     - [Spites Echo](items/spites-echo.md)
 
--   __#Shields__
+-   __Shields__
 
     ---
 
     - [Radiation Shield](items/radiation-shield.md)
     - [Prismatica](items/prismatica.md)
 
--   __#Tools__
+-   __Tools__
 
     ---
 
@@ -208,7 +208,7 @@ Here is a list of all custom items added by Incendium.
     - [Warren Crest](items/warren-crest.md)
     - [Infernal Key](items/infernal-key.md)
 
--   __#Equipment__
+-   __Equipment__
 
     ---
 
@@ -216,7 +216,7 @@ Here is a list of all custom items added by Incendium.
     - [Infernal Wings](items/infernal-wings.md) ![Sprite](assets/sprites/items/infernal_elytra.png){width="24"}
     - [Hazmat Armor](items/hazmat-armor.md)
 
--   __#Consumables__
+-   __Consumables__
 
     ---
 
@@ -226,7 +226,7 @@ Here is a list of all custom items added by Incendium.
     - [Restless Anture](items/restless-nature.md)
     - [Custom Potions](items/custom-potions.md)
 
--   __#Consumables__
+-   __Consumables__
 
     ---
 

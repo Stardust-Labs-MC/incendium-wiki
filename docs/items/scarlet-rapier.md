@@ -1,4 +1,4 @@
-## Scarlet Rapier
+### Scarlet Rapier
 
 
 !!! tip inline end "Scarlet Rapier"
@@ -20,7 +20,7 @@
       ```
 
 
-# Description
+## Description
 
 This is a nimble rapier that does damage in quick succesion while also providing quick defence in a pinch with vamperic like abilites.
 
@@ -32,14 +32,14 @@ The Rapier also has a parry ability, by the blocking with the Rapier you will ha
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Scarlet Rapier has a 50% chance of spawning on the top level of the main tower in the [Forbidden castle](../structures/forbidden-castle.md).
 
 When obtaining the item it will have a random attack value from a full number range of 6-7, and an attack speed range of 1.7-1.9. If the Rapier has 6 attack damage then it will always have 1.7 attack speed and if it has 7 attack damage then it will always have 1.9 attack speed 
 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Scarlet Rapier works with any sword enchantment but can not be enchanted directly, you must combine enchant books in order to add any enchants

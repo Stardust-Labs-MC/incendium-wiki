@@ -1,4 +1,4 @@
-## Daybreaker
+### Daybreaker
 
 
 !!! tip inline end "Daybreaker"
@@ -17,7 +17,7 @@
       ```
 
 
-# Description
+## Description
 
 Daybreaker is a hack and slash combo based sword, that allows for contant pressure on your foes and the ability to reposition yourself mid fight. While also dropping gold on mob kills.
 
@@ -33,16 +33,16 @@ This item has synergy with the Item [Prismatica](../items/prismatica.md), if the
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Daybreaker can be found in the basement of the [Sanctum](../structures/sanctum.md) at the end of a maze .
 
-# History
+## History
 
 The Daybreaker is a Patron item requested by ZombiePogman.
 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Daybreaker works with most sword enchantments except sweeping edge and can not be enchanted directly, you must combine enchant books in order to add any enchants

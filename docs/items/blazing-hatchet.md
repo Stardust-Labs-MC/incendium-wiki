@@ -1,4 +1,4 @@
-## Blazing Hatchet
+### Blazing Hatchet
 
 
 !!! tip inline end "Blazing Hatchet"
@@ -20,7 +20,7 @@
       ```
 
 
-# Description
+## Description
 
 The Blazing Hatchet is an axe that holds explosive force on impact
 
@@ -31,12 +31,12 @@ When mining logs using the Blazing Hatchet the logs will be turned into charcoal
 This item is immune to burning in lava/explosions and most other means of destroying items
 
 
-# Obtaining
+## Obtaining
 
 The Blazing Hatchet spawns at the [Forbidden castle](../structures/forbidden-castle.md) inside Pyro rooms.
 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Blazing Hatchet works with any axe enchantment but can not be enchanted directly, you must combine enchant books in order to add any enchants

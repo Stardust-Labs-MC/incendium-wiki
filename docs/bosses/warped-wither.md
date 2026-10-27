@@ -1,4 +1,4 @@
-# Warped Wither
+### Warped Wither
 
 
 !!! tip inline end "Warped Wither"
@@ -16,12 +16,12 @@
 
 
 
-# Description
+## Description
 
 The __Warped Wither__ is a buffed up version of the base Wither added by Incendium. The boss takes inspiration from the Bedrock wither's harder fight. When it is summoned, all players nearby will recive the Withering Depths advancement.
 
 Upon being slain the Warped Wither will drop the [Warping Witherblade](../items/warping-witherblade.md) and a nether star
 
-# Spawning
+## Spawning
 
 The boss can be summoned by creating a Wither in the Nether while under the effects of Bad Omen or Trial Omen, if under the effect of the former then it will be converted into Trial Omen upon the summoning.

@@ -1,4 +1,4 @@
-## Permafrost Pike
+### Permafrost Pike
 
 
 !!! tip inline end "Permafrost Pike"
@@ -22,7 +22,7 @@
       ```
 
 
-# Description
+## Description
 
 The Permafrost Pike is an all rounder weapon with a specialty keeping your distance and slaying Heat based mobs. 
 
@@ -37,12 +37,12 @@ When striking a foe two things will happen, first you will always give them slow
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Permafrost Pike can be found in a barrel in he 1x2 Freezer Room inside the [Forbidden castle](../structures/forbidden-castle.md). Or rarely in a copper chest inside the [Ruined Lab](../structures/ruined-lab.md) in the bottem floor inside a Freezer Section
 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Permafrost Pike works with most spear enchantments except fire aspect and knockback and can not be enchanted directly, you must combine enchant books in order to add any enchants

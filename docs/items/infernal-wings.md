@@ -1,4 +1,4 @@
-## Infernal Wings
+### Infernal Wings
 
 
 !!! tip inline end "Infernal Wings"
@@ -24,21 +24,21 @@
       ```
 
 
-# Description
+## Description
 
 The Infernal Wings are an Elytra with an armor boost, making you able to fly with more armor at the cost of a 5% speed loss when flying and walking.
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Infernal Wings are upgraded from Tattered Infernal Wings which are obtained from a vault in the [Infernal Altar](../structures/infernal-altar.md) using an [Infernal Key](infernal-key.md)
 
-# Tattered Infernal Wings
+## Tattered Infernal Wings
 
 The Tattered Infernal Wings are the item you obtain before being combined with an Elytra to create the Infernal Wings. They are exactly the same as the Infernal Wings except you can't fly with them. They can be worn and provide their stats. 
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Infernal Wings works with any elytra enchantment

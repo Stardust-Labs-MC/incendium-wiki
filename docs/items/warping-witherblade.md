@@ -1,4 +1,4 @@
-## Warping Witherblade
+### Warping Witherblade
 
 
 !!! tip inline end "Warping Witherblade"
@@ -17,7 +17,7 @@
       ```
 
 
-# Description
+## Description
 
 Warping Witherblade is a slow but strong heavy that can apply wither on hit or be used to block to reduce damage taken and release a wither effect on nearby foes
 
@@ -29,17 +29,17 @@ Slaying mobs with this sword gives twice the experince.
 
 This item is immune to burning in lava/explosions and most other means of destroying items
 
-# Obtaining
+## Obtaining
 
 The Warping Witherblade is dropped by a boss the [Warped Wither](../bosses/warped-wither.md)
 
 When obtaining the item it will have a random movement speed value from -15% to -22.5% in segments of 2.5% between the two.
 
-# History
+## History
 
 The Warping Witherblade is a Patron item requested by Blu.
 
-# Modifications
+## Modifications
 This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
 
 The Warping Witherblade works all sword enchantments but can not be enchanted directly, you must combine enchant books in order to add any enchants
