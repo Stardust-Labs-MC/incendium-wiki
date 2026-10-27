@@ -144,8 +144,14 @@ Here is a list of all mobs added by Incendium.
     - [Restless Spirit](mobs/restless-spirit.md)
 
 
-
 </div>
+
+# Bosses
+
+A list of all bosses in Incendium.
+
+- [Hovering Inferno](hovering-inferno.md)
+- [Warped Wither](warped-wither.md)
 
 # Items
 

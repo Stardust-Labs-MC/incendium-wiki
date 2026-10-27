@@ -1,4 +1,4 @@
-# Mobs
+# Bosses
 
 A list of all bosses in Incendium.
 
