@@ -128,9 +128,8 @@ Here is a list of all custom items added by Incendium.
     ---
 
     - [Unstable Powder](items/unstable-powder.md)
-    - [Returning Scroll](items/returning-scroll.md)
-    - [Returning Scroll](items/returning-scroll.md)
-    - [Restless Anture](items/restless-nature.md)
+    - [Returning Scroll](items/returning-scroll.md) ![Sprite](assets/sprites/items/scroll_of_returning.png){width="24"}
+    - [Restless Nature](items/restless-nature.md)
     - [Custom Potions](items/custom-potions.md)
 
 -   __Consumables__

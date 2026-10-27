@@ -28,5 +28,4 @@ The Torch of Lunacy is dropped by [Pipeline Sentries](../mobs/pipeline-sentry.md
 
 ## Modifications
 
-This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. It can also be grindstoned safely
-
+This item can be renamed without losing its effect, but it will lose its font color. This can be restored by reseting it's name at an anvil. 
