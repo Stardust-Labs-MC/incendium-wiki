@@ -14,7 +14,7 @@ theme:
   features:
     - navigation.instant
     - navigation.top
-    - navigation.integrate
+    - toc.integrate
     - navigation.tracking
     - search.suggest
     - search.highlight
