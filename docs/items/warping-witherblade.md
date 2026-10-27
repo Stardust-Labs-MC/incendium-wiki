@@ -1,4 +1,3 @@
-### Warping Witherblade
 
 
 !!! tip inline end "Warping Witherblade"

@@ -1,3 +1,3 @@
-### Pipeline
+### Description
 
 The Pipelines are semi-abandoned, randomly generated series of sprawling pipes and spigots, filled with Sentries still defending the place. The purpose and makers of those structures is still unknown. But rumors of treasure and dangers spread regardless...

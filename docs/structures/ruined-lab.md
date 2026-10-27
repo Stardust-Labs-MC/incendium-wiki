@@ -1,3 +1,3 @@
-### Ruined Lab
+### Description
 
 The Ruined lab is a dome-shaped structure with a glass dome roof inhabited by elite Wither skeletons. Home to the Withered Scientists this structure serves not only as a lab but also a stronghold where the scientists seem to be performing multiple different experiments across the many layers. All the while they are defended by an army of Withered Guards determined to protect this last standing structure of the Withered Skeletons. This structure is defended by a multitude of trial spawners that serve as defence againist intruders allowing the fallen guards to rise again over time

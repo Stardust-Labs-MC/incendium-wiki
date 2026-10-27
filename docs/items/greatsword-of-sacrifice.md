@@ -1,4 +1,4 @@
-### Greatsword of Sacrifice
+### Description
 
 
 !!! tip inline end "Greatsword of Sacrifice"

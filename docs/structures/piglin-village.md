@@ -1,3 +1,3 @@
-### Piglin Village
+### Description
 
 The Piglin village is a randomly generated custom village full of passive Piglin villagers that all have unique barters depending on their job. It is a great place to rest and gather some resources while exploring in Incendium, as long as you don't anger them...

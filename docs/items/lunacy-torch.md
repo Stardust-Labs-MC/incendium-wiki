@@ -1,4 +1,4 @@
-### Torch of Lunacy
+### Description
 
 
 !!! tip inline end "Torch of Lunacy"

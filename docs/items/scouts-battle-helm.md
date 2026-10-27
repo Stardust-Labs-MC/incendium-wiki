@@ -1,4 +1,3 @@
-### Scout's Battle Helm
 
 
 !!! tip inline end "Scout's Battle Helm"

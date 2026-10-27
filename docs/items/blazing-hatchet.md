@@ -1,4 +1,4 @@
-### Blazing Hatchet
+### Description
 
 
 !!! tip inline end "Blazing Hatchet"

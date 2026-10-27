@@ -1,3 +1,3 @@
-### Quartz Kitchen
+### Description
 
 The Quartz kitchen is a restaurant run by Torte and his crew of Skeleton brothers. It has a kitchen and dining area, a garden and some storage rooms. There is a tower to the side of the kitchen that houses the adorable Pyre Ghastling. Surely a restaurant in such a place doesn't hold any secrets...

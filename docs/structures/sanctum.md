@@ -1,3 +1,3 @@
-### Sanctum
+### Description
 
 The Sanctum is a structure that lies within the Quartz flats biome. Resembling a church made out of Quartz, inhabited by Illagers that found their way into the Nether, it is suspected that they built this church over a Bastion they destroyed, and that secrets lie within the basement of this massive building. When getting close to the structure, the curse of the place will prevent you from mining blocks, leaving you no option than to fight your way through.
