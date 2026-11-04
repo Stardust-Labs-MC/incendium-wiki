@@ -24,7 +24,7 @@ Below is a list of all biomes brought by Incendium.
 | [Quartz Flats](biomes/quartz-flats.md) |`incendium:quartz_flats` |
 | [Infernal Dunes](biomes/infernal-dunes.md) |`incendium:infernal_dunes` |
 | [Toxic Heaps](biomes/toxic-heap.md) |`incendium:toxic_heap` |
-| [Voltaic Heaps](biomes/voltaic-heap.md) |`incendium:tvoltaic_heap` |
+| [Voltaic Heaps](biomes/voltaic-heap.md) |`incendium:voltaic_heap` |
 | [Withered Forest](biomes/withered-forest.md) |`incendium:withered_forest` |
 | [Magma Marsh](biomes/magma-marsh.md) |`incendium:magma_marsh` |
 
