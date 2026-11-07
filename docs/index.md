@@ -79,7 +79,7 @@ Here is a list of all custom items added by Incendium.
     - [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/witherblade.png){width="24"}
     - [Daybreaker](items/daybreaker.md) ![Sprite](assets/sprites/items/daybreaker.png){width="24"}
     - [Withersbane](items/withersbane.md)
-    - [Dawnlight](items/dawnlight.md)
+    - [Dawnlight](items/dawnlight.md) ![Sprite](assets/sprites/items/dawnlight/dawnlight_item.png){width="24"}
     - [Blazing Hatchet](items/blazing-hatchet.md) ![Sprite](assets/sprites/items/blazing.png){width="24"}
     - [Voltaic Trident](items/voltaic-trident.md)
     - [Permafrost Pike](items/permafrost-pike.md) ![Sprite](assets/sprites/items/chilling/chilling_small.png){width="24"}
