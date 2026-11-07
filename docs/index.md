@@ -94,7 +94,7 @@ Here is a list of all custom items added by Incendium.
     - [Trailblazer](items/trailblazer.md)
     - [Sentrys Wrath](items/sentrys-wrath.md)
     - [Holy Wrath](items/holy-wrath.md)
-    - [Firestorm](items/firestorm.md)
+    - [Firestorm](items/firestorm.md) ![Sprite](assets/sprites/items/firestorm/firestorm.png){width="24"}
     - [Multiplex](items/multiplex.md)
     - [Spites Echo](items/spites-echo.md)
 
