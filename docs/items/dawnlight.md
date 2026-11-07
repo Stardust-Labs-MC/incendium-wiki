@@ -9,7 +9,7 @@
         ![Dawnlight](../assets/items/dawnlight_gui.png){width="196"}
     
     
-    __Base Item:__     Netherite Spear
+    __Base Item:__     Netherite Spear  
     __Item Model:__     Iron Spear  
     __Durability:__  2031  
     __Attack Damage:__  7 (![Full](../assets/sprites/full.png){width="9"} x 3.5)  
