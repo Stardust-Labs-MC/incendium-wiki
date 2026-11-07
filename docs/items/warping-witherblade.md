@@ -2,9 +2,13 @@
 
 !!! tip inline end "Warping Witherblade"
 
-    
-    ![Warping Witherblade](../assets/items/witherblade_animated.gif){width="196"}
+    === "Held Sprite"
+        ![Warping Witherblade](../assets/items/witherblade_animated.gif){width="196"}
 
+    === "GUI Sprite"
+        ![Warping Witherblade](../assets/items/witherblade_gui.png){width="196"}
+    
+    
     __Base Item:__     Netherite Sword  
     __Durability:__  2031  
     __Attack Damage:__  12 (![Full](../assets/sprites/full.png){width="9"} x 6)  
