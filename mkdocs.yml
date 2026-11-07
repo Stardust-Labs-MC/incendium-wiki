@@ -11,6 +11,7 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   logo: assets/incendium_symbol.png
+  favicon: assets/stardustlab_wiki_logo.png
   features:
     - navigation.instant
     - navigation.top
