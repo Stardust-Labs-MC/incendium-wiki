@@ -76,7 +76,7 @@ Here is a list of all custom items added by Incendium.
 
     - [Greatsword of Sacrifice](items/greatsword-of-sacrifice.md) ![Sprite](assets/sprites/items/sacrifice.png){width="24"}
     - [Scarlet Rapier](items/scarlet-rapier.md) ![Sprite](assets/sprites/items/scarlet.png){width="24"}
-    - [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/warping_witherblade.png){width="24"}
+    - [Warping Witherblade](items/warping-witherblade.md) ![Sprite](assets/sprites/items/witherblade.png){width="24"}
     - [Daybreaker](items/daybreaker.md) ![Sprite](assets/sprites/items/daybreaker.png){width="24"}
     - [Withersbane](items/withersbane.md)
     - [Dawnlight](items/dawnlight.md)

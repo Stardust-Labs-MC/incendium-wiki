@@ -3,7 +3,7 @@
 !!! tip inline end "Warping Witherblade"
 
     
-    ![Warping Witherblade](../assets/items/warping_witherblade_animated.gif){width="196"}
+    ![Warping Witherblade](../assets/items/witherblade_animated.gif){width="196"}
 
     __Base Item:__     Netherite Sword  
     __Durability:__  2031  
