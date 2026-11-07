@@ -132,7 +132,7 @@ Here is a list of all custom items added by Incendium.
     - [Restless Nature](items/restless-nature.md)
     - [Custom Potions](items/custom-potions.md)
 
--   __Consumables__
+-   __Collectibles__
 
     ---
 
