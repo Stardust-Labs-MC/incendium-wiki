@@ -22,7 +22,7 @@ This item is immune to burning in lava/explosions and most other means of destro
 
 ## Obtaining
 
-The Scout's battle helm is dropped by [Piglin Scouts](../mobs/castle-scout.md) which have a 20% chance to be wearing them throughout the [Forbidden castle](../structures/forbidden-castle.md).
+The Scout's battle helm is dropped by [Piglin Scouts](../mobs/castle-scout.md) which have a 10% chance to be wearing them throughout the [Forbidden castle](../structures/forbidden-castle.md).
 
 
 ## History
